@@ -77,4 +77,4 @@
 
 !/.windows/WindowsPowerShell/
 /.windows/WindowsPowerShell/*
-!/.windows/WindowsPowerShell/Microsoft.WindowsPowerShell_profile.ps1
+!/.windows/WindowsPowerShell/Microsoft.PowerShell_profile.ps1
