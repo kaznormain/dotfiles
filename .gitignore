@@ -25,7 +25,7 @@
 
 !/.config/bat/
 /.config/bat/*
-!/.config/bat/bat.conf
+!/.config/bat/config
 
 !/.config/btop/
 /.config/btop/*
@@ -55,3 +55,26 @@
 /.config/zsh/os/*
 !/.config/zsh/os/darwin.zsh
 !/.config/zsh/os/linux.zsh
+
+!/.windows/
+/.windows/*
+!/.windows/starship.toml
+
+!/.windows/alacritty/
+/.windows/alacritty/*
+!/.windows/alacritty/alacritty.toml
+
+!/.windows/alacritty/icons/
+/.windows/alacritty/icons/*
+!/.windows/alacritty/icons/alacritty.ico
+!/.windows/alacritty/icons/alacritty.png
+!/.windows/alacritty/icons/alacritty.svg
+
+!/.windows/alacritty/themes/
+/.windows/alacritty/themes/*
+!/.windows/alacritty/themes/gruvbox_dark.toml
+!/.windows/alacritty/themes/tokyo_night_moon.toml
+
+!/.windows/WindowsPowerShell/
+/.windows/WindowsPowerShell/*
+!/.windows/WindowsPowerShell/Microsoft.WindowsPowerShell_profile.ps1

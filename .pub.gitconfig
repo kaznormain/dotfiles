@@ -1,5 +1,11 @@
+# include this file in your .gitconfig by following command.
+# git config --global include.path "path/to/this/file"
+
 [init]
     defaultBranch = main
+
+[core]
+    symlinks = true
 
 [alias]
     # status and switching
